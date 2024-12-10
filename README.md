@@ -4,9 +4,11 @@ Online Payment Fraud Detection Using Machine Learning
 This project uses machine learning techniques to detect fraudulent transactions in online payment systems. Fraud detection is a critical aspect of cybersecurity and financial systems, aiming to protect users and institutions from financial loss and reputational harm.
 
 Project Description
+
 This project explores multiple machine learning models to identify fraudulent transactions in an online payment dataset. It addresses challenges such as imbalanced data, precision in fraud detection, and optimizing for real-time deployment. The project employs data preprocessing, exploratory data analysis, machine learning modeling, and hyperparameter tuning to achieve robust results.
 
 Plots
+
 The following visualizations are included in the project:
 
 Distribution of payment types (Pie Chart)
