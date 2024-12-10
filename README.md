@@ -9,17 +9,17 @@ This project explores multiple machine learning models to identify fraudulent tr
 
 Plots
 
-The following visualizations are included in the project:
+The following visualizations are included in the project (in order):
 
-Distribution of payment types (Pie Chart)
+1. Distribution of payment types (Pie Chart)
 
-Average transaction amounts for fraudulent transactions by type (Bar Chart)
+2. Average transaction amounts for fraudulent transactions by type (Bar Chart)
 
-Comparison of average amounts and balances for fraud vs. non-fraud cases (Bar Charts)
+3. Comparison of average amounts and balances for fraud vs. non-fraud cases (Bar Charts)
 
-Time-series visualization of fraud and non-fraud cases over time (Line Plots)
+4. Time-series visualization of fraud and non-fraud cases over time (Line Plots)
 
-Scatter plot showing fraud versus origin account balances
+5. Scatter plot showing fraud versus origin account balances
 
 NOTE: The last three plots were saved separately and are included as image files in the repository due to rendering issues in the notebook.
 
