@@ -6,20 +6,6 @@ This project uses machine learning techniques to detect fraudulent transactions 
 Project Description
 This project explores multiple machine learning models to identify fraudulent transactions in an online payment dataset. It addresses challenges such as imbalanced data, precision in fraud detection, and optimizing for real-time deployment. The project employs data preprocessing, exploratory data analysis, machine learning modeling, and hyperparameter tuning to achieve robust results.
 
-Features
-Dataset Management: SQLite3 was used for efficient storage and query of the dataset containing 10,000 transactions.
-
-Data Preprocessing: Handled missing values, normalized numerical features, and used one-hot encoding for categorical variables.
-
-EDA and Visualizations: Generated several visualizations to uncover insights into transaction types and fraudulent patterns.
-
-Machine Learning Models: Built and evaluated models including Logistic Regression, Decision Trees, Random Forests, and Neural Networks.
-
-Hyperparameter Tuning: Improved Random Forest performance with GridSearchCV and adjusted thresholds for optimal recall.
-
-Handling Imbalanced Data: Implemented SMOTE to oversample the minority class and adjusted model class weights.
-
-
 Plots
 The following visualizations are included in the project:
 
@@ -44,7 +30,7 @@ How to Use
 
 Clone the repository:
 
-git clone https://github.com/https://github.com/sbose03/CS210final/
+git clone https://github.com/sbose03/CS210final/
 
 Install required Python libraries:
 
