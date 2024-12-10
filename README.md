@@ -23,7 +23,7 @@ The following visualizations are included in the project (in order):
 
 NOTE: The last three plots were saved separately and are included as image files in the repository due to rendering issues in the notebook.
 
-File Structure
+
 final(1).ipynb: The main notebook containing all code for the project, from preprocessing to model evaluation.
 
 Plots Directory: Contains saved image files for the last three plots that could not render in the notebook.
