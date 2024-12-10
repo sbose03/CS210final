@@ -36,7 +36,7 @@ Install required Python libraries:
 
 pip install -r requirements.txt  
 
-Open the notebook final(1).ipynb in Jupyter Notebook or JupyterLab.
+Open the notebook final(2).ipynb in Jupyter Notebook or JupyterLab.
 
 Run the cells sequentially to execute the full project workflow.
 
