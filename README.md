@@ -21,8 +21,11 @@ The following visualizations are included in the project (in order):
 
 5. Scatter plot showing fraud versus origin account balances
 
-NOTE: The last three plots were saved separately and are included as image files in the repository due to rendering issues in the notebook.
+2 MAJOR ISSUES - 
 
+1.  The last three plots were saved separately and are included as image files in the repository due to rendering issues in the notebook.
+
+2. The CSV was to big to be uploaded onto GitHub, as a result I am just providing the Kaggle link to the dataset.
 
 final(1).ipynb: The main notebook containing all code for the project, from preprocessing to model evaluation.
 
