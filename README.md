@@ -22,7 +22,7 @@ The following visualizations are included in the project (in order):
 
 2. The CSV was to big to be uploaded onto GitHub, as a result I am just providing the Kaggle link to the dataset.
 
-final(1).ipynb: The main notebook containing all code for the project, from preprocessing to model evaluation.
+final(2).ipynb: The main notebook containing all code for the project, from preprocessing to model evaluation.
 
 Plots Directory: Contains saved image files for the last three plots that could not render in the notebook.
 
@@ -32,9 +32,7 @@ Clone the repository:
 
 git clone https://github.com/sbose03/CS210final/
 
-Install required Python libraries:
-
-pip install -r requirements.txt  
+Install required Python libraries
 
 Open the notebook final(2).ipynb in Jupyter Notebook or JupyterLab.
 
