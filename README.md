@@ -18,7 +18,7 @@ The following visualizations are included in the project (in order):
 
 2 MAJOR ISSUES - 
 
-1.  The last three plots were saved separately and are included as image files in the repository due to rendering issues in the notebook.
+1.  The last three plots do not show up in the Jupyter Notebook due to rendering issues. Plot #3, Plot#4, and Plot#5, respectively have been provided separately
 
 2. The CSV was to big to be uploaded onto GitHub, as a result I am just providing the Kaggle link to the dataset.
 
